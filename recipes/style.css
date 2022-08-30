@@ -14,5 +14,12 @@ body{
     font-weight: bold;
     font-style: italic;
     font-size: 16px;
+    color: tomato;
+}
+
+#headings{
+ font-style: oblique;
+ font-weight: bold;
+ color: tomato;
 }
 
