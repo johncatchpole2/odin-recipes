@@ -3,3 +3,9 @@ body{
     background-color: gainsboro;
     color: black;
 }
+
+.picture-headings{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 16px;
+}
