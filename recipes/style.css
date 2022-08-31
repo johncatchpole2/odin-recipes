@@ -4,6 +4,14 @@ body{
     color: black;
     font-style: oblique;
 }
+
+.ingrediants-item,
+.recipe-instructions{
+    font-style: oblique;
+    font-size: 19px;
+    font-variant-position: super;
+}
+
 .ingrediants-item{
     font-style: oblique;
     font-size: 19px;
