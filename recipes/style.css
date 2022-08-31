@@ -12,6 +12,12 @@ body{
     font-variant-position: super;
 }
 
+.image-descrip{
+    font-weight: bold;
+    font-style: oblique;
+    font-size: 14px;
+}
+
 .ingrediants-item{
     font-style: oblique;
     font-size: 19px;
