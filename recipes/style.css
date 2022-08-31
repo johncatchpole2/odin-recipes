@@ -1,13 +1,12 @@
 body{
     font-family: "PLayfair Display",Helvetica,"Quicksand";
-    background-color: rgb(175, 253, 172);
-    color: black;
+    background-color: rgb(117, 117, 117);
+    color: rgb(255, 255, 255);
     font-style: oblique;
 }
 
 .ingrediants-item,
 .recipe-instructions{
-    font-style: oblique;
     font-size: 19px;
     font-variant-position: super;
 }
