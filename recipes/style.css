@@ -17,9 +17,15 @@ body{
     color: tomato;
 }
 
+.recipe-image{
+    width: 600px;
+    height: auto;
+}
+
 #headings{
  font-style: oblique;
  font-weight: bold;
  color: tomato;
 }
+
 
