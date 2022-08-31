@@ -9,6 +9,7 @@ body{
 .recipe-instructions{
     font-size: 19px;
     font-variant-position: super;
+    color: white;
 }
 
 .image-descrip{
